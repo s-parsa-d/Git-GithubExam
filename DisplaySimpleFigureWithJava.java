@@ -3,7 +3,9 @@ public class DisplaySimpleFigureWithJava {
         ninety();  
         System.out.println();
         ninety();
-        ninety();  
+        ninety();
+        stars();
+        fourStar();
     }
 
     public static void ninety() {
