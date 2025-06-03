@@ -12,5 +12,13 @@ public class DisplaySimpleFigureWithJava {
 }
 
 
-public static void stars(){}
+public static void stars(){
+    System.out.println("    *****   ");
+    System.out.println("   *******   ");
+    System.out.println("  *********   ");
+}
 
+
+// public static void fourStar(){
+//     System.out.println(" **** ");
+// }
